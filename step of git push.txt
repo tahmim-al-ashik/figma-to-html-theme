@@ -1,0 +1,6 @@
+git init
+git commit -m "comment"
+git add .
+git remote add origin https://github.com/tahmim-al-ashik/figma-to-html-theme.git
+
+git push origin master
